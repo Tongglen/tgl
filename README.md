@@ -7,9 +7,9 @@ Generate a personal access token on GitHub and copy it.
 
 Run the following script
 
-[^1]
+`
   $ sh -c "$(curl -fsSL https://raw.github.com/Tongglen/1993-script/master/index.sh)"
-[^1]
+`
 
 Enter you GitHub username and access token and then you are done :)
 
