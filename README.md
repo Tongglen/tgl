@@ -25,4 +25,7 @@ This is the ISO Date-Time format for storing time: YYYY-MM-DDTHH:MM:SS.
 
 This commit is then pushed to GitHub (provided you already have made a repository) using git push -u origin main -f, and the directory is removed.
 
-GitHub recognizes the commit to have been created at 6 pm, 1st January, 1990 and thus registers a contribution at that moment in time. If you scroll to the first year on your profile, you will see there is a single contribution to your 1993 repository, on 1st January.
+GitHub recognizes the commit to have been created at 6 pm, 1st January, 1993 and thus registers a contribution at that moment in time. If you scroll to the first year on your profile, you will see there is a single contribution to your 1993 repository, on 1st January.
+
+
+... Draw a peach tree base on @antfu's 1990-script(<https://github.com/antfu/1990-script>)
